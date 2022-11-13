@@ -1,0 +1,23 @@
+.registration_left_side {
+    display: grid;
+    align-items: flex-start;
+    position: absolute;
+    top: 40%;
+    margin-left: 80px;
+    transform: translateY(-50%);
+
+    /* margin-bottom: 50%; */
+}
+
+.registration_content {
+    width: 100vw;
+    height: 100vh;
+    background-color: #F0F4F7;
+    overflow: auto;
+}
+
+.title_signup {
+    font-family: 'Inter-Bold';
+    font-size: 60px;
+}
+

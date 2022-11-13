@@ -1,0 +1,29 @@
+.login_left_side {
+    display: grid;
+    align-items: flex-start;
+    position: absolute;
+    top: 40%;
+    margin-left: 96px;
+    transform: translateY(-50%);
+
+    /* margin-bottom: 50%; */
+}
+.login_content {
+    width: 100vw;
+    height: 100vh;
+    background-color: #F0F4F7;
+    overflow: auto;
+    display: inline-flex;
+}
+
+.title_signin {
+    font-family: 'Inter-Bold';
+    font-size: 60px;
+}
+a {
+    color: #39B6EC;
+    font-family: 'Inter-Regular';
+    margin-top: 15px;
+
+}
+

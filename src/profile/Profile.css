@@ -1,0 +1,122 @@
+.profile_content {
+    width: 100vw;
+    height: 100vh;
+    overflow: auto;
+    background-color: #F0F4F7;
+}
+
+.main_info {
+    margin-top: 100px;
+    margin-left: 50px;
+    display: flex;
+    width: auto;
+}
+
+.main_info img {
+    width: 160px;
+    height: 160px;
+    border-radius: 100%;
+    margin-right: 40px;
+}
+
+.main_info div h4 {
+    font-family: 'Inter-Light';
+    font-size: 20px;
+    margin-bottom: -15px;
+    color: #39B6EC;
+}
+
+.main_info div h1 {
+    font-family: 'Inter-Bold';
+    font-size: 40px;
+
+}
+
+.additive_info {
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 50px;
+    width: 100vw;
+    height: auto;
+    display: flex;
+
+
+}
+
+.right_side {
+    font-family: 'Inter-Regular';
+    width: 500px;
+    height: auto;
+    padding: 30px;
+    border-radius: 30px;
+    border-style: none;
+    background-color: white;
+
+}
+
+.quantity_clients {
+    display: flex;
+    width: auto;
+    font-family: 'Inter-Regular';
+    color: #5B667C;
+}
+
+.quantity_clients h3.data {
+    margin-left: auto;
+    color: black;
+}
+
+.rating {
+    display: flex;
+    width: auto;
+    font-family: 'Inter-Regular';
+    color: #5B667C;
+}
+
+.rating h3.data {
+    margin-left: auto;
+    color: black;
+}
+
+.earning {
+    font-family: 'Inter-Regular';
+    color: #5B667C;
+    display: flex;
+    width: auto;
+}
+
+.earning h3.data {
+    margin-left: auto;
+    color: black;
+}
+
+.left_side {
+    margin-left: auto;
+    align-self: center;
+    margin-left: 100px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: #39B6EC;
+    border-width: 5px;
+    padding: 30px;
+    width: 150px;
+    height: 150px;
+}
+
+.round_rating {
+    font-family: 'Inter-Bold';
+    align-items: center;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+
+.round_rating h1 {
+    margin-bottom: -15px;
+    font-size: 50px;
+}
+
+.round_rating h4 {
+    font-family: 'Inter-Medium';
+    font-size: 15px;
+}
